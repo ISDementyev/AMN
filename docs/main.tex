@@ -31,7 +31,16 @@ As one may have guessed, the axioms are based off of Minecraft's de-obfuscated s
 Now that the axioms have been introduced, it's time to apply them (and subsequent derivations) to redstone circuits. \\
 
 \noindent
-The first thing that we'll do is derive a formula for the minimum number of redstone sources required to extend a signal for N blocks.
+The first thing that we'll do is derive a formula for the minimum number of redstone sources required to extend a signal for N blocks. Using Axiom 5, one can logically deduce that:
+
+\begin{equation}
+    N_{sources} = ceil \left( \frac{N}{15} \right) \\
+\end{equation}
+
+\noindent
+Where $N_{sources}$ is the number of redstone sources required, and $ceil()$ is the mathematical ceiling function
+
+
 
 \end{document}
 
