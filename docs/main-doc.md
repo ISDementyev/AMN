@@ -23,3 +23,8 @@ Now that the axioms have been introduced, it's time to apply them (and subsequen
 
 The first thing that we'll do is derive a formula for the minimum number of redstone sources required to extend a signal for N blocks.
 
+(Eqn 1)
+
+This equation can also be used for more parallel circuits, all that is needed is to count the total number of blocks for each circuit path, add them all up and apply the same equation (or do each one individually). 
+
+The next circuit that we will study is one which has a repeating (perpetual) signal.
