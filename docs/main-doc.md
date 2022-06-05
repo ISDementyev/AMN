@@ -14,7 +14,7 @@ As one may have guessed, the axioms are based off of Minecraft's de-obfuscated s
 
 1. MC time proceeds in ticks. By default, there are 20 ticks in 1 real-time second
 2. Any MC block has real-life dimensions of 1m by 1m by 1m
-3. A redstone signal is able to travel for a distance of 15 blocks before it dies out and must be reinforced
+3. A redstone signal is able to travel for a distance of 15 blocks before it dies out
 4. All redstone-related items take up 1 block each
 5. A signal from a redstone source is capable of reaching 15 blocks before it dies out
 
@@ -27,4 +27,4 @@ The first thing that we'll do is derive a formula for the minimum number of reds
 
 This equation can also be used for more parallel circuits, all that is needed is to count the total number of blocks for each circuit path, add them all up and apply the same equation (or do each one individually). 
 
-The next circuit that we will study is one which has a repeating (perpetual) signal.
+The next circuit that we will study is one which has a repeating (perpetual) signal, a very common setup found in most servers.
