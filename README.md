@@ -1,4 +1,4 @@
-# MCCD
+# AMN
 **A**pplied **M**ath **N**otes - Formerly known as MCCD (Minecraft Circuit Design)
 
 ## Purpose (from docs/main-doc.tex)
