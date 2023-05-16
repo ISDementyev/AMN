@@ -1,6 +1,6 @@
 # MCCD
-A repository for studying minecraft circuits and their math (**M**ine**C**raft **C**ircuit **D**esign)
+**A**pplied **M**ath **N**otes - Formerly known as MCCD (Minecraft Circuit Design)
 
 ## Purpose (from docs/main-doc.tex)
-This document shall serve as a way to study redstone circuits in MC, using mathematical principles. It is not meant to serve as an exhaustive guideline. In fact, it is encouraged to add upon its knowledge, as long as it is cited in whatever work/project you choose to pursue/make, in whatever format you like.
-
+This repository contains applied math notes that I created with the intention of self-exploration of math's application to interdisciplinary topics that interest me.
+If you decide to use any of the docs, feel free to cite it in whatever format you wish.
